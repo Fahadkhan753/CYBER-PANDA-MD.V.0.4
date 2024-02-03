@@ -21,10 +21,10 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
+global.Owner = ["+923276349673", "+923276349673"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923276349673", "+923276349673"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+923276349673"];
+global.OwnerName = "OLD HACKER";
 global.BotName = "DARK SHAM";
 global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
 global.author = "KUSHAN";                               //Do not change.
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "mathara, Sri Lankan";
+global.location = "mathara, PAKISTAN";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
